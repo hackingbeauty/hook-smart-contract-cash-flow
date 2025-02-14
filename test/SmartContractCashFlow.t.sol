@@ -8,5 +8,13 @@ import {SmartContractCashFlow} from "../src/SmartContractCashFlow.sol";
 
 contract TestSmartContractCashFlow is Test, Deployers {
 
+    function setUp() public {
+    }
+
+    function test_func1() public {
+    }
+
+    function test_func2() public {
+    }
 
 }

@@ -64,3 +64,10 @@ $ forge --help
 $ anvil --help
 $ cast --help
 ```
+
+
+### Beacon Deposit Contract
+
+https://etherscan.io/address/0x00000000219ab540356cBB839Cbe05303d7705Fa#code
+
+Reference URL: https://eth2book.info/capella/part2/deposits-withdrawals/contract/
